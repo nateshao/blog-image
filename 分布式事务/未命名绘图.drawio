@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T03:02:13.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="cgm8Ht55bBPfXpmLebVM" type="github"><diagram id="goHr9p-yAWWpe-uHQU8U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-17T03:05:03.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="gloBBoqQ1vbqOxlXkrzK" type="github">
+  <diagram id="GJ7tELX1-CQrjID0Nq2T" name="第 1 页">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1NnTp05bS6YR88HIxe3G-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1NnTp05bS6YR88HIxe3G-2" value="&lt;h1&gt;go&amp;nbsp; net&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;流式友好&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小包性能高&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1NnTp05bS6YR88HIxe3G-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1NnTp05bS6YR88HIxe3G-4" value="&lt;h1&gt;netpoll&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;中大包性能高&lt;/p&gt;&lt;p&gt;时延低&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="100" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
