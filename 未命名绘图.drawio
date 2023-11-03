@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T09:14:36.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IqFytSmNCFadZ8-r1Unz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T09:14:45.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ELorPVyGUdNqIB_8wxiw" version="22.0.8" type="github">
   <diagram name="第 1 页" id="Xitm7BR1QgXsahXMNKrp">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         </mxCell>
         <mxCell id="MGftzye2ZW7pEAbC8CXY-2" value="sku与spu的关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MGftzye2ZW7pEAbC8CXY-1">
           <mxGeometry x="-0.0642" y="-2" relative="1" as="geometry">
-            <mxPoint x="32" as="offset" />
+            <mxPoint x="37" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gk9bBfAuXZcHd2vXawck-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;wx_element_info&lt;br&gt;颗粒信息数据表&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;sku&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
