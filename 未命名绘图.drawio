@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T07:20:37.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xh29MaiZxTSv4qz2Nori" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T07:21:31.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="39Xr-OdioXN4BqsGs3_i" version="22.1.0" type="github">
   <diagram name="第 1 页" id="Xitm7BR1QgXsahXMNKrp">
     <mxGraphModel dx="2261" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,6 +390,21 @@
         <mxCell id="E3slfJ039MUQ1OmCvmN7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="E3slfJ039MUQ1OmCvmN7-3" target="E3slfJ039MUQ1OmCvmN7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E3slfJ039MUQ1OmCvmN7-18" value="id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3slfJ039MUQ1OmCvmN7-16">
+          <mxGeometry x="-0.6" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3slfJ039MUQ1OmCvmN7-19" value="planning_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3slfJ039MUQ1OmCvmN7-16">
+          <mxGeometry x="0.55" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3slfJ039MUQ1OmCvmN7-20" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3slfJ039MUQ1OmCvmN7-16">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="E3slfJ039MUQ1OmCvmN7-3" value="&lt;font style=&quot;&quot;&gt;wx_factory_planning规划表&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -398,6 +413,21 @@
         </mxCell>
         <mxCell id="E3slfJ039MUQ1OmCvmN7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="E3slfJ039MUQ1OmCvmN7-15" target="E3slfJ039MUQ1OmCvmN7-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3slfJ039MUQ1OmCvmN7-21" value="id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3slfJ039MUQ1OmCvmN7-17">
+          <mxGeometry x="-0.45" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3slfJ039MUQ1OmCvmN7-22" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3slfJ039MUQ1OmCvmN7-17">
+          <mxGeometry x="0.2" y="-3" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3slfJ039MUQ1OmCvmN7-23" value="proposal_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E3slfJ039MUQ1OmCvmN7-17">
+          <mxGeometry x="0.7" y="2" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="E3slfJ039MUQ1OmCvmN7-15" value="wx_factory_proposal&lt;br&gt;指导表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1320" width="120" height="60" as="geometry" />
