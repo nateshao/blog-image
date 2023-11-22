@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T08:23:06.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BXOMPa_Goxp_Dw-j04IZ" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T08:23:52.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="76skgpK_RwgHI93mik1I" version="22.1.3" type="github">
   <diagram name="第 1 页" id="Xitm7BR1QgXsahXMNKrp">
     <mxGraphModel dx="2261" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,12 +69,6 @@
         <mxCell id="yXbJXcxyzhRO19lz1-nd-19" value="&lt;font color=&quot;#ff0000&quot;&gt;资源与新标签的关系&lt;br&gt;新标签体系&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yXbJXcxyzhRO19lz1-nd-18">
           <mxGeometry x="0.7113" y="2" relative="1" as="geometry">
             <mxPoint x="28" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yXbJXcxyzhRO19lz1-nd-20" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;strokeColor=#9999FF;" edge="1" parent="1" source="gk9bBfAuXZcHd2vXawck-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="240" as="sourcePoint" />
-            <mxPoint x="1030" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gk9bBfAuXZcHd2vXawck-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;wx_resource_v2&lt;br&gt;资源表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -508,6 +502,12 @@
         </mxCell>
         <mxCell id="yXbJXcxyzhRO19lz1-nd-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;wx_spu_element_info_map&lt;br&gt;spu和颗粒关系表&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="655" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yXbJXcxyzhRO19lz1-nd-20" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;strokeColor=#0000FF;" edge="1" parent="1" source="gk9bBfAuXZcHd2vXawck-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="240" as="sourcePoint" />
+            <mxPoint x="1030" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
