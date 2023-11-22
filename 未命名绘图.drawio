@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T08:25:44.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vkZ2QziGkkuB1zbxBBsR" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T08:26:11.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8enwk9iSiwty1UhnADDl" version="22.1.3" type="github">
   <diagram name="第 1 页" id="Xitm7BR1QgXsahXMNKrp">
     <mxGraphModel dx="2261" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="yXbJXcxyzhRO19lz1-nd-18" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=none;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="gk9bBfAuXZcHd2vXawck-1" target="yXbJXcxyzhRO19lz1-nd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yXbJXcxyzhRO19lz1-nd-19" value="&lt;font color=&quot;#ff0000&quot;&gt;资源与新标签的关系&lt;br&gt;新标签体系&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yXbJXcxyzhRO19lz1-nd-18">
+        <mxCell id="yXbJXcxyzhRO19lz1-nd-19" value="&lt;font color=&quot;#9999ff&quot;&gt;资源与新标签的关系&lt;br&gt;新标签体系&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yXbJXcxyzhRO19lz1-nd-18">
           <mxGeometry x="0.7113" y="2" relative="1" as="geometry">
             <mxPoint x="28" y="10" as="offset" />
           </mxGeometry>
