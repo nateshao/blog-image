@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T08:23:52.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="76skgpK_RwgHI93mik1I" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T08:25:09.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yN56x2CPjqhtrxhgiDnQ" version="22.1.3" type="github">
   <diagram name="第 1 页" id="Xitm7BR1QgXsahXMNKrp">
     <mxGraphModel dx="2261" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,6 +416,9 @@
         <mxCell id="E3slfJ039MUQ1OmCvmN7-3" value="&lt;font style=&quot;&quot;&gt;wx_factory_planning规划表&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yXbJXcxyzhRO19lz1-nd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="E3slfJ039MUQ1OmCvmN7-11" target="yXbJXcxyzhRO19lz1-nd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E3slfJ039MUQ1OmCvmN7-11" value="wx_factory_demand_board&lt;br&gt;需求版" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-25" y="1460" width="170" height="60" as="geometry" />
         </mxCell>
@@ -508,6 +511,9 @@
             <mxPoint x="370" y="240" as="sourcePoint" />
             <mxPoint x="1030" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yXbJXcxyzhRO19lz1-nd-23" value="wx_factory_work&lt;br&gt;作品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
