@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T02:33:04.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WsZjUL15QBryBY7hRa_O" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T02:48:25.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sjcEgH3Vaj28BfTJiAhL" version="22.1.8" type="github">
   <diagram name="第 1 页" id="Xitm7BR1QgXsahXMNKrp">
     <mxGraphModel dx="2501" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,6 +517,9 @@
         </mxCell>
         <mxCell id="cCusPYkFXxiys2kptESl-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;旧标签体系&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-450" y="1590" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cCusPYkFXxiys2kptESl-5" value="&lt;h1&gt;老标签体系&lt;/h1&gt;&lt;p&gt;wx_label(id,label_id)wx_label_element_map(element_id,id)wx_element_resource(id,element_id)wx_element_info(id,relate_id)wx_resource_v2&lt;/p&gt;&lt;div&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;新标签体系&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;wx_label_v2(id,label_id)wx_label_spu_map(spu_id,spu_id)wx_spu_element_info_map(element_info_id,id)wx_element_info(id,relate_id)wx_resource_v2&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-120" width="790" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
