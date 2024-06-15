@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T07:05:30.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rDkJ8Iy2eJqS73h70Y81" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T06:22:56.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="a87A4FKuif9YfxVENzW7" version="24.5.2" type="github">
   <diagram name="第 1 页" id="Xitm7BR1QgXsahXMNKrp">
     <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -719,8 +719,11 @@
         <mxCell id="PKKMT4bTfipn1tTF-bNH-11" value="wx_resource_v2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="2110" width="198" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KKKpG2CQY1We4mQObX27-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主题包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#e1d5e7;sketch=1;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="KKKpG2CQY1We4mQObX27-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;主题包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#e1d5e7;sketch=1;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-211" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3BMvdlwR0tql_ISY4eLL-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分群实验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
