@@ -865,7 +865,7 @@
           <mxGeometry x="235" y="2948" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;资源广场&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="3260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-413" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="JmvyGwCXqGk-3zMriktC-2" target="JmvyGwCXqGk-3zMriktC-7">
           <mxGeometry relative="1" as="geometry" />
@@ -881,13 +881,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-2" value="wx_resource_v3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="3260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-3" value="广场-主题包&lt;br&gt;wx_resource_v3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="3260" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-6" value="relate_type = 4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="505" y="3240" as="geometry" />
+          <mxGeometry x="505" y="3170" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="JmvyGwCXqGk-3zMriktC-7" target="JmvyGwCXqGk-3zMriktC-3">
           <mxGeometry relative="1" as="geometry" />
@@ -903,22 +903,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-7" value="wx_resource_to_pack_relate_v3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="60.00000000000001" y="3260" width="205.38" height="60" as="geometry" />
+          <mxGeometry x="60.00000000000001" y="3190" width="205.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="JmvyGwCXqGk-3zMriktC-14" target="JmvyGwCXqGk-3zMriktC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JmvyGwCXqGk-3zMriktC-19" value="id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JmvyGwCXqGk-3zMriktC-16">
+          <mxGeometry x="-0.7156" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JmvyGwCXqGk-3zMriktC-20" value="theme_label_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JmvyGwCXqGk-3zMriktC-16">
+          <mxGeometry x="0.2569" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="JmvyGwCXqGk-3zMriktC-14" target="JmvyGwCXqGk-3zMriktC-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JmvyGwCXqGk-3zMriktC-21" value="id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JmvyGwCXqGk-3zMriktC-18">
+          <mxGeometry x="-0.3812" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JmvyGwCXqGk-3zMriktC-22" value="label_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JmvyGwCXqGk-3zMriktC-18">
+          <mxGeometry x="0.6243" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-14" value="主题包运营标签&lt;br&gt;wx_square_theme_operation_label" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="3420" width="300" height="60" as="geometry" />
+          <mxGeometry x="66" y="3420" width="208" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-15" value="主题包与主题包标签的关联关系&lt;br&gt;wx_square_theme_operation_label_map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="3420" width="300" height="60" as="geometry" />
+          <mxGeometry x="492" y="3420" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JmvyGwCXqGk-3zMriktC-17" value="主题包资源与标签的关联表&lt;br&gt;wx_label_theme_res_map_v3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-298" y="3420" width="208" height="60" as="geometry" />
+          <mxGeometry x="-293" y="3420" width="178" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
